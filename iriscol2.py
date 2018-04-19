@@ -10,4 +10,5 @@ secondcol = data[:,1]
 
 meansecondcol = numpy.mean(data[:,1])
 
-print("The Sepal width of the data set is",meansecondcol)
+print("The mean sepal width of the data set is",meansecondcol) #Answer is 3.054
+
