@@ -6,6 +6,6 @@
 
 2. **Iriscol1** contains my python script to access and analyse the first column
 
-knitr::include_graphics('/path/to/image/ first col histo.png')
+![Alt text] (C:\Users\Tullowhurler\Pictures\Snips\firstcolhisto.png)
 
 
