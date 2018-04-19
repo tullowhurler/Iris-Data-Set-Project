@@ -6,7 +6,6 @@
 
 2. **Iriscol1** contains my python script to access and analyse the first column
 
-{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
-knitr::include_graphics("first col histo.PNG")
+knitr::include_graphics('/path/to/image/ first col histo.png')
 
 
