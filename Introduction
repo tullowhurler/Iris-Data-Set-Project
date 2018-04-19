@@ -1,1 +1,33 @@
+Introduction to Iris Data Set
+
+The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in 1936 (1). 
+Multivariate analysis involves observation and analysis of more than one statistical outcome variable at a time (2). 
+This data set was first introduced as an example of linear discriminant analysis. 
+Linear discriminant analysis is a form of statistical analysis that attempts to find a common theme or difference between 2 or more variables (3). 
+This type of analysis has become extremely important in the development and amelioration of machine learning. 
+
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor) (1). 
+The data set comprises of 4 measurements of sample in centimetres, the length and width of both the petal and the sepal. 
+Using these measurements Fisher used a linear discriminant model to try and discriminate each of the three species from each other. 
+
+Based on Fisher’s linear discriminant model the data set has become the standard for many statistical classification techniques, especially machine learning (4). 
+Machine Learning is how a computer learns about new features and where and how they should be used. 
+It involves pattern recognition and computational learning theory. 
+Data classification is the process of organizing data into categories for its most effective and efficient use (5). 
+In Machine Learning support machine vectors are supervised learning models with associated learning algorithms that analyze data used for classification(6). 
+
+This data set is an important example as it highlights the important difference between supervised and unsupervised learning models for machine learning. 
+The cluster analysis of the data shows two recognisable clusters however it cannot differentiate the three types of species unless they are labelled. 
+The cluster analysis does not work as the 3 flowers from the same species appear as almost separate species due to the difference between the setosa being so different to the 2 others virginica and versicolor. 
+Therefore, the three species of Iris (Iris setosa, Iris virginica and Iris versicolor) are separable by the unsupervising procedures of nonlinear principal component analysis (7).
+I will through my own analysis break down the differences and similarities between each of the species in the data set. 
+
+References:
+1.	https://en.wikipedia.org/wiki/Iris_flower_data_set
+2.	https://en.wikipedia.org/wiki/Multivariate_statistics 
+3.	https://en.wikipedia.org/wiki/Linear_discriminant_analysis 
+4.	https://en.wikipedia.org/wiki/Machine_learning 
+5.	https://searchdatamanagement.techtarget.com/definition/data-classification 
+6.	https://issuu.com/denhams/docs/statistical_analysis_report 
+
 
