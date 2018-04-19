@@ -6,5 +6,5 @@
 
 2. **Iriscol1** contains my python script to access and analyse the first column
 
-![Caption for the picture.](first col histo.PNG)
+![Histogram of meanfirst col.](/path/to/first col histo.PNG)
 
