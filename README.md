@@ -6,5 +6,7 @@
 
 2. **Iriscol1** contains my python script to access and analyse the first column
 
-![Histogram of meanfirst col.](/path/to/first col histo.png)
+{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
+knitr::include_graphics("first col histo.PNG")
+
 
