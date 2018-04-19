@@ -6,6 +6,6 @@
 
 2. **Iriscol1** contains my python script to access and analyse the first column
 
-![Alt text] (C:\Users\Tullowhurler\Pictures\Snips\firstcolhisto.png)
+
 
 
