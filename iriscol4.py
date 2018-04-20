@@ -16,6 +16,9 @@ minfourthcol = numpy.min(data[:,3])
 
 maxfourthcol = numpy.max(data[:,3])
 
+import matplotlib.pyplot as pl 
+pl.hist(fourthcol)
+pl.show()
 
 print("The mean petal width of the data set it",meanfourthcol) #Answer 1.19cm
 print("The minimum petal width of the data set is",minfourthcol) #Answer 0.1cm
