@@ -23,6 +23,10 @@ import matplotlib.pyplot as pl
 pl.hist(thirdcol)
 pl.show()
 
+# created scatterplot https://stackoverflow.com/questions/10336614/scatter-plot-in-matplotlib
+pl.scatter(thirdcol,fourthcol)
+pl.show()
+
 #print the outcome
 print("The mean petal length of the data set it",meanthirdcol) #Answer 3.75cm
 print("The minimum petal length of the data set is",minthirdcol) #Answer 1.0cm
