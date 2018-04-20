@@ -8,6 +8,8 @@
 
 3. **Iriscol2** contains my script to access and analyse the second column.
 
+4. **Iriscol3** contains my script to access and analyse the third column.
+
 
 
 
