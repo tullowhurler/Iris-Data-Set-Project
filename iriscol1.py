@@ -22,6 +22,10 @@ import matplotlib.pyplot as pl
 # Makes the graph, added labels using the pop up window
 pl.hist(firstcol)
 pl.show() 
+
+#import scatter plot showing the sepal length and width of the iris flower https://stackoverflow.com/questions/10336614/scatter-plot-in-matplotlib
+pl.scatter(firstcol,secondcol) 
+pl.show()
  
  #print out the results
 print("The mean sepal length of the data set is", meanfirstcol) # Answer is 5.84
