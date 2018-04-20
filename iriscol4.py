@@ -7,3 +7,16 @@ import numpy
 
 # accessing data file
 data = numpy.genfromtxt('data/iris.csv', delimiter = ',')
+
+fourthcol = data[:,3]
+
+meanfourthcol = numpy.mean(data[:,3])
+
+minfourthcol = numpy.min(data[:,3])
+
+maxfourthcol = numpy.max(data[:,3])
+
+
+print("The mean petal width of the data set it",meanfourthcol) #Answer 1.19cm
+print("The minimum petal width of the data set is",minfourthcol) #Answer 0.1cm
+print("The maximum petal width of the data set is",maxfourthcol) #Answer is 2.5cm
