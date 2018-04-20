@@ -1,4 +1,4 @@
- #Brian Condon 
+#Brian Condon 
 #Analysis of the third column of data
 #20/04/18
 
@@ -24,7 +24,7 @@ pl.hist(thirdcol)
 pl.show()
 
 # created scatterplot https://stackoverflow.com/questions/10336614/scatter-plot-in-matplotlib
-pl.scatter(thirdcol,fourthcol)
+pl.scatter(thirdcol,fourthcol) #have to import fourthcol into ipython
 pl.show()
 
 #print the outcome
