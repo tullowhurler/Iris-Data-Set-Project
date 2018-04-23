@@ -1,16 +1,25 @@
 # Iris Data Set Project
 ## Programming and Scripting Project 2018
 
+My name is Brian Condon and this is my first college project. I am analysing the Iris Data set using Python. I have included my coding scripts in this section of the repository and my Introduction, Research and Summary are in the **Wiki** Section of the repository. 
 ### **Table of Contents**
-1. **Introduction** contains my understanding of the data set and it's importance in the field of data analysis and Machine Learning.
 
-2. **Iriscol1** contains my python script to access and analyse the first column.
+* **Iriscol1** contains my python script to access and analyse the first column.
 
-3. **Iriscol2** contains my script to access and analyse the second column.
+* **Iriscol2** contains my script to access and analyse the second column.
 
-4. **Iriscol3** contains my script to access and analyse the third column.
+* **Iriscol3** contains my script to access and analyse the third column.
 
-5. **Iriscol4** contains my script to access and analyse the fourth column.
+* **Iriscol4** contains my script to access and analyse the fourth column.
+
+* **Setosa** contains my script accessing just the Setosa Flower's data.
+
+* **Versicolor** contains my script accessing just the Versicolor Flower's data.
+
+* **Virginica** contains my script accessing just the Virginica Flower's data.
+
+* **Data** is the folder containing the csv files. 
+
 ![https://github.com/tullowhurler/Iris-Data-Set-Project](https://github.com/tullowhurler/Iris-Data-Set-Project/blob/master/Petal%20Length.png)
 
 
