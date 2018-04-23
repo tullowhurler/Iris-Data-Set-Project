@@ -21,7 +21,7 @@ meansetosapw = numpy.mean(data[:,3])
 setosa = setosa[~numpy.isnan(setosa)]
 
 import matplotlib.pyplot as pl 
-pl.scatter(pl.scatter(setosa,setosapw))
+pl.scatter(setosa,setosapw)
 pl.show()
 
 print("The mean petal length of the setosa is",meansetosa) #Answer is 1.4cm
