@@ -20,7 +20,7 @@ My name is Brian Condon and this is my first college project. I am analysing the
 
 * **Data** is the folder containing the csv files. 
 
-![https://github.com/tullowhurler/Iris-Data-Set-Project](https://github.com/tullowhurler/Iris-Data-Set-Project/blob/master/Petal%20Length.png)
+
 
 
 
