@@ -20,7 +20,11 @@ virginpl = virginpl[~numpy.isnan(virginpl)]
 
 #Making a scatterplot
 import matplotlib.pyplot as pl 
-pl.scatter(virginpl,virginpw)
+
+pl.hist(virginpl)
+pl.xlabel('Petal Length in cms')
+pl.ylabel('Amount of Samples')
+pl.title('The Petal Length of the Virginica Flower')
 pl.show()
 
 print("The mean petal length of the virginica is",meanvirginpl) #Answer is 5.5cm 
