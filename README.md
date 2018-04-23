@@ -11,7 +11,7 @@
 4. **Iriscol3** contains my script to access and analyse the third column.
 
 <p align="center">
-<img src="">
+<img src="Iris-Data-Set-Project/Petal Length 1.jpg ">
 </p> 
 
 
