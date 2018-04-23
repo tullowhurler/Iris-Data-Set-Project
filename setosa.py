@@ -9,9 +9,11 @@ import numpy
 data = numpy.genfromtxt('data/setosa.csv', delimiter = ',')
 
 # Seperate the column and finds the mean
-setosa = data[:,0]
+#Setosa Petal Length
+setosa = data[:,2]
 meansetosa = numpy.mean((data[:,2]))
 
+#Setosa Petal Width
 setosapw = data[:,3]
 meansetosapw = numpy.mean(data[:,3])
 
