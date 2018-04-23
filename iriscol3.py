@@ -24,6 +24,7 @@ pl.hist(thirdcol)
 pl.show()
 
 # created scatterplot https://stackoverflow.com/questions/10336614/scatter-plot-in-matplotlib
+#added titles https://bespokeblog.wordpress.com/2011/07/07/basic-data-plotting-with-matplotlib-part-2-lines-points-formatting/
 pl.scatter(thirdcol,fourthcol) #have to import fourthcol into ipython
 pl.xlabel('Petal Length in cms')
 pl.ylabel('Petal Width in cms')
