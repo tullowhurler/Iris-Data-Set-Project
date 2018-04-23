@@ -10,6 +10,7 @@
 
 4. **Iriscol3** contains my script to access and analyse the third column.
 
+5. **Iriscol4** contains my script to access and analyse the fourth column.
 ![https://github.com/tullowhurler/Iris-Data-Set-Project](https://github.com/tullowhurler/Iris-Data-Set-Project/blob/master/Petal%20Length.png)
 
 
