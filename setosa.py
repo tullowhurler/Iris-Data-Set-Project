@@ -18,5 +18,9 @@ meansetosapw = numpy.mean(data[:,3])
 #excludes nan from the file so we can use numpy to develop mean etc. https://stackoverflow.com/questions/11620914/removing-nan-values-from-an-array
 setosa = setosa[~numpy.isnan(setosa)]
 
+import matplotlib.pyplot as pl 
+pl.scatter(pl.scatter(setosa,setosapw))
+pl.show()
+
 print("The mean petal length of the setosa is",meansetosa) #Answer is 1.4cm
 print("The mean petal width of the setosa is",meansetosapw) #Answer is 0.2cm
