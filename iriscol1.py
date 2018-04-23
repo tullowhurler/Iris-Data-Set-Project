@@ -24,7 +24,11 @@ pl.hist(firstcol)
 pl.show() 
 
 #import scatter plot showing the sepal length and width of the iris flower https://stackoverflow.com/questions/10336614/scatter-plot-in-matplotlib
+# Added titles https://bespokeblog.wordpress.com/2011/07/07/basic-data-plotting-with-matplotlib-part-2-lines-points-formatting/
 pl.scatter(firstcol,secondcol) 
+pl.xlabel('Sepal Length in cms')
+pl.ylabel('Sepal Width in cms')
+pl.title('The Sepal Length and Width of the Iris Flower')
 pl.show()
  
  #print out the results
