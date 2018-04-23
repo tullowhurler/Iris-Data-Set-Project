@@ -19,7 +19,10 @@ meanversicopw = numpy.mean(data[:,3])
 versicopl = versicopl[~numpy.isnan(versicopl)]
 
 import matplotlib.pyplot as pl 
-pl.scatter(versicopl,versicopw)
+pl.hist(virginpl)
+pl.xlabel('Petal Length in cms')
+pl.ylabel('Amount of Samples')
+pl.title('The Petal Length of the Virginica Flower')
 pl.show()
 
 print("The mean petal length of the versicolor is",meanversicopl) #Answer is 4.2cm 
