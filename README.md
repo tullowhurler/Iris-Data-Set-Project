@@ -20,7 +20,7 @@ My name is Brian Condon and this is my first college project. I am analysing the
 
 * **Data** is the folder containing the csv files. 
 
-* **Png Files** these contain the relevant histograms and scatter plots that I have included in the **Wiki** section part of my project
+* **Png Files** these contain the relevant histograms and scatter plots that I have included in the **Wiki** section part of my project.
 
 
 
